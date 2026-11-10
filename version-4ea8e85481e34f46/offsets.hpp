@@ -1,7 +1,7 @@
 #pragma once
 
 #include <cstdint>
-namespace supq::roblox {
+namespace offsets::roblox {
 
     namespace version {
         inline constexpr char client[] = "0.747.0.7471481";
